@@ -8,3 +8,13 @@ object object {
     return 'blablabla';
   }
 }
+
+# This is a comment
+# On two lines
+
+object objectRemote {
+  lalalFun function() {
+    lol + lol = hihi;
+    return 'haha';
+  }
+}
