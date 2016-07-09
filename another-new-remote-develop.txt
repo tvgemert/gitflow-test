@@ -2,3 +2,9 @@ And yet another one remote develop
 And I have edited this one!
 This is what I have edited online.
 And yet edited it locally to create conflicts.
+
+object object {
+  indent function() {
+    return 'blablabla';
+  }
+}
